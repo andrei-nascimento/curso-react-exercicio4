@@ -1,0 +1,23 @@
+.contador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.number {
+    font-size: 54px;
+}
+
+.mais, .menos {
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-width: 2.5px;
+    border-radius: 8px;
+    font-size: 24px;
+    margin: 4px
+}
